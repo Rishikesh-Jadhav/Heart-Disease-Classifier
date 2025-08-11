@@ -79,9 +79,6 @@ jupyter notebook end-to-end-heart-disease-classification.ipynb
 
 ### Basic Usage
 
-```python
-from src.models.heart_disease_classifier import HeartDiseaseClassifier
-
 # Initialize the model
 classifier = HeartDiseaseClassifier()
 
