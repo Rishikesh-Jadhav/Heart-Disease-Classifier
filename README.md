@@ -7,6 +7,7 @@
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
 ![Stars](https://img.shields.io/github/stars/Rishikesh-Jadhav/Heart-Disease-Classifier?style=flat-square&labelColor=343b41)
 ![Forks](https://img.shields.io/github/forks/Rishikesh-Jadhav/Heart-Disease-Classifier?style=flat-square&labelColor=343b41)
+</div>
 
 ##  Overview
 
@@ -74,7 +75,7 @@ pip install -r requirements.txt
 jupyter notebook end-to-end-heart-disease-classification.ipynb
 ```
 
-## 📖 Usage
+## Usage
 
 ### Basic Usage
 
