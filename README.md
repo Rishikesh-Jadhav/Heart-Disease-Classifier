@@ -79,6 +79,7 @@ jupyter notebook end-to-end-heart-disease-classification.ipynb
 
 ### Basic Usage
 
+```bash
 # Initialize the model
 classifier = HeartDiseaseClassifier()
 
